@@ -15,6 +15,11 @@ Posts are fetched from an API and rendered with **Jinja2 templates**, styled usi
 
 ---
 
+## 🌍 Live Demo
+🔗 [View Flask Blog Website](https://flask-blog-rx9l.onrender.com/) 
+
+---
+
 ## ⚙️ Installation & Setup
 
 1. Clone the repo:
