@@ -24,5 +24,5 @@ Posts are fetched from an API and rendered with **Jinja2 templates**, styled usi
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/blog-website.git
+   git clone https://github.com/Shahid-Ali-Dev/Flask-Blog.git
    cd blog-website
